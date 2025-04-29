@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the SDM 2025 conference. :fireworks:
+One paper has been accepted by the SDM 2025 conference. :smile:
 
 
