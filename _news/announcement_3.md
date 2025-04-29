@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A survey paper on uncertainty estimation in LLMs has been archived. :smile:
+A survey paper on uncertainty estimation in LLMs has been archived. :sparkles:
