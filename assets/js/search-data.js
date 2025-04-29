@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-by-the-jper-journal-fireworks",
-          title: 'One paper has been accepted by the JPER journal. :fireworks:',
+            },},{id: "news-one-paper-has-been-accepted-by-the-jper-journal-smile",
+          title: 'One paper has been accepted by the JPER journal. :smile:',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-sdm-2025-conference-smile",
           title: 'One paper has been accepted by the SDM 2025 conference. :smile:',
