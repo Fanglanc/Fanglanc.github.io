@@ -47,7 +47,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-demo-paper-has-been-accepted-by-the-icdm-2025-workshop-smile",
           title: 'One demo paper has been accepted by the ICDM 2025 workshop. :smile:',
           description: "",
-          section: "News",},{id: "news-a-survey-paper-on-uncertainty-estimation-in-llms-has-been-accepted-by-the-information-fusion-sparkles",
+          section: "News",},{id: "news-a-survey-paper-on-uncertainty-estimation-in-llms-has-been-accepted-by-the-information-fusion-journal-sparkles",
           title: 'A survey paper on uncertainty estimation in LLMs has been accepted by the...',
           description: "",
           section: "News",},{id: "projects-project-1",
