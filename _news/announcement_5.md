@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-09-19 08:50:00-0400
+date: 2025-12-11 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One demo paper has been accepted by the ICDM workshop. :smile:
+A survey paper on uncertainty estimation in LLMs has been accepted by the Information Fusion. :sparkles:
+
