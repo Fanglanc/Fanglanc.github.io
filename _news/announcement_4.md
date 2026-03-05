@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A demo paper has been accepted by the ICDM 2025 workshop. :smile:
+A paper has been accepted by the ICDM 2025 workshop. :smile:
