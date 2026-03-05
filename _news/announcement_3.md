@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One demo paper has been accepted by the SIGSPATIAL. :smile:
+One demo paper has been accepted by the SIGSPATIAL 2025 conference. :smile:
