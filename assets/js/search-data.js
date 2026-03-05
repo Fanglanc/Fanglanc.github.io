@@ -35,14 +35,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-by-the-jper-journal-smile",
-          title: 'One paper has been accepted by the JPER journal. :smile:',
+            },},{id: "news-a-paper-has-been-accepted-by-the-jper-journal-smile",
+          title: 'A paper has been accepted by the JPER journal. :smile:',
           description: "",
           section: "News",},{id: "news-a-paper-has-been-accepted-by-the-sdm-2025-conference-smile",
           title: 'A paper has been accepted by the SDM 2025 conference. :smile:',
           description: "",
-          section: "News",},{id: "news-a-demo-paper-has-been-accepted-by-the-sigspatial-2025-conference-smile",
-          title: 'A demo paper has been accepted by the SIGSPATIAL 2025 conference. :smile:',
+          section: "News",},{id: "news-a-paper-has-been-accepted-by-the-sigspatial-2025-conference-smile",
+          title: 'A paper has been accepted by the SIGSPATIAL 2025 conference. :smile:',
           description: "",
           section: "News",},{id: "news-a-demo-paper-has-been-accepted-by-the-icdm-2025-workshop-smile",
           title: 'A demo paper has been accepted by the ICDM 2025 workshop. :smile:',
