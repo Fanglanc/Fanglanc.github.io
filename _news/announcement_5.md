@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A survey paper on uncertainty estimation in LLMs has been accepted by the Information Fusion. :sparkles:
+A survey paper on uncertainty estimation in LLMs has been accepted by the Information Fusion journal. :sparkles:
 
