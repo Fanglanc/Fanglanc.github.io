@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the JPER journal. :smile:
+A paper has been accepted by the JPER journal. :smile:
