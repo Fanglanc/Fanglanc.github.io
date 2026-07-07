@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. candidate, <a href='https://vt.edu/'>Virginia Tech</a>.
+subtitle: Ph.D., <a href='https://vt.edu/'>Virginia Tech</a>.
 
 profile:
   align: right
